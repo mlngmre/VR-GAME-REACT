@@ -1,0 +1,22 @@
+{
+  "name": "vr",
+  "version": "1.0.0",
+  "description": "Game1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlngmre/VR-GAME-REACT.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "mILAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlngmre/VR-GAME-REACT/issues"
+  },
+  "homepage": "https://github.com/mlngmre/VR-GAME-REACT#readme"
+}
